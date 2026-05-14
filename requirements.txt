@@ -1,0 +1,9 @@
+fastapi[all]
+sqlalchemy[asyncio]
+alembic
+psycopg2-binary
+asyncpg
+pydantic-settings
+pytest
+pytest-asyncio
+httpx
