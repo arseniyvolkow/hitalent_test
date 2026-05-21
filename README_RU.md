@@ -29,8 +29,8 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone <repository_url>
-   cd hitalent
+   git clone https://github.com/arseniyvolkow/hitalent_test
+   cd hitalent_test
    ```
 
 2. **Запустите сервисы**:
