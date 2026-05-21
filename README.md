@@ -30,8 +30,8 @@ This is a technical exercise implementation for an Organizational Structure API 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd hitalent
+   git clone https://github.com/arseniyvolkow/hitalent_test
+   cd hitalent_test
    ```
 
 2. **Start the services**:
